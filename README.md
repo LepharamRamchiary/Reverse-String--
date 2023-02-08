@@ -10,7 +10,7 @@ Example-
 Input: s = "abcdefg", k = 2
 Output: "bacdfeg"
 
-
+```
 Solution:-
   #include<bits/stdc++.h>
   using namespace std;
@@ -34,3 +34,4 @@ Solution:-
       cout<<rev(s,k);
       return 0;
   }
+  ```
